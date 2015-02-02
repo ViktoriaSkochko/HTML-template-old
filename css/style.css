@@ -95,7 +95,7 @@ input, textarea, button, a {
    -moz-transition: all 0.3s ease 0s;
    -ms-transition: all 0.3s ease 0s;
    -o-transition: all 0.3s ease 0s;
-   transition: all 0.3s ease 0s
+   transition: all 0.3s ease 0s;
 }
 .row {
    margin: 0 auto;
