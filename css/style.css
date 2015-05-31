@@ -101,7 +101,6 @@ input, textarea, button, a {
 }
 .row {
    margin: 0 auto;
-   max-width: 96%;
    position: relative;
    width: 960px;
 }
