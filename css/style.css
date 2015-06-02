@@ -104,3 +104,13 @@ input, textarea, button, a {
    position: relative;
    width: 960px;
 }
+@media screen and (max-width: 960px){
+}
+@media screen and (max-width: 768px){
+}
+@media screen and (max-width: 640px){
+}
+@media screen and (max-width: 480px){
+}
+@media screen and (max-width: 320px){
+}
